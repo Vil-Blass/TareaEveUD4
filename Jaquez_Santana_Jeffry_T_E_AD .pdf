@@ -1,0 +1,3120 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R 35 0 R 37 0 R 39 0 R 41 0 R 43 0 R 45 0 R 47 0 R 49 0 R 51 0 R 53 0 R 55 0 R 57 0 R 59 0 R] /Count 27 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Length 792 >>
+stream
+q
+0.08 0.24 0.42 RG
+1 w
+42 806.89 m 553.28 806.89 l S
+Q
+0.080 0.240 0.420 rg
+BT /F3 27 Tf 42.00 671.89 Td (PROYECTO ACTIVA) Tj ET
+0.120 0.160 0.220 rg
+BT /F1 16 Tf 42.00 636.89 Td (Código completo y configuración) Tj ET
+0.120 0.160 0.220 rg
+BT /F1 9 Tf 42.00 609.89 Td (Aplicación de consola para gestionar actividades y reservas) Tj ET
+0.120 0.160 0.220 rg
+BT /F1 9 Tf 42.00 586.89 Td (Contenido organizado por partes y archivos) Tj ET
+0.380 0.420 0.470 rg
+BT /F1 9 Tf 42.00 536.89 Td (Generado a partir del contenido actual del proyecto.) Tj ET
+0.380 0.420 0.470 rg
+BT /F1 9 Tf 42.00 519.89 Td (Incluye fuentes Java, persistencia, compilación, ejecución y guía.) Tj ET
+0.65 0.67 0.70 rg
+BT /F1 8 Tf 42.00 24 Td (Activa - Código del proyecto) Tj ET
+BT /F1 8 Tf 515.28 24 Td (Página 1) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 3 0 R /F3 5 0 R /F4 4 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 2539 >>
+stream
+q
+0.08 0.24 0.42 RG
+1 w
+42 806.89 m 553.28 806.89 l S
+Q
+0.080 0.240 0.420 rg
+BT /F3 16 Tf 42.00 787.89 Td (ÍNDICE DE CONTENIDOS) Tj ET
+0.120 0.160 0.220 rg
+BT /F1 8.5 Tf 42.00 755.89 Td (README.md) Tj ET
+0.120 0.160 0.220 rg
+BT /F2 8.5 Tf 537.28 755.89 Td (3) Tj ET
+0.120 0.160 0.220 rg
+BT /F1 8.5 Tf 42.00 738.89 Td (pom.xml) Tj ET
+0.120 0.160 0.220 rg
+BT /F2 8.5 Tf 537.28 738.89 Td (5) Tj ET
+0.120 0.160 0.220 rg
+BT /F1 8.5 Tf 42.00 721.89 Td (Dockerfile) Tj ET
+0.120 0.160 0.220 rg
+BT /F2 8.5 Tf 537.28 721.89 Td (6) Tj ET
+0.120 0.160 0.220 rg
+BT /F1 8.5 Tf 42.00 704.89 Td (compose.yaml) Tj ET
+0.120 0.160 0.220 rg
+BT /F2 8.5 Tf 537.28 704.89 Td (7) Tj ET
+0.120 0.160 0.220 rg
+BT /F1 8.5 Tf 42.00 687.89 Td (.env.example) Tj ET
+0.120 0.160 0.220 rg
+BT /F2 8.5 Tf 537.28 687.89 Td (8) Tj ET
+0.120 0.160 0.220 rg
+BT /F1 8.5 Tf 42.00 670.89 Td (.gitignore) Tj ET
+0.120 0.160 0.220 rg
+BT /F2 8.5 Tf 537.28 670.89 Td (9) Tj ET
+0.120 0.160 0.220 rg
+BT /F1 8.5 Tf 42.00 653.89 Td (.dockerignore) Tj ET
+0.120 0.160 0.220 rg
+BT /F2 8.5 Tf 537.28 653.89 Td (10) Tj ET
+0.120 0.160 0.220 rg
+BT /F1 8.5 Tf 42.00 636.89 Td (src/main/resources/META-INF/persistence.xml) Tj ET
+0.120 0.160 0.220 rg
+BT /F2 8.5 Tf 537.28 636.89 Td (11) Tj ET
+0.120 0.160 0.220 rg
+BT /F1 8.5 Tf 42.00 619.89 Td (src/main/java/es/activa/config/PersistenceConfig.java) Tj ET
+0.120 0.160 0.220 rg
+BT /F2 8.5 Tf 537.28 619.89 Td (12) Tj ET
+0.120 0.160 0.220 rg
+BT /F1 8.5 Tf 42.00 602.89 Td (src/main/java/es/activa/domain/Actividad.java) Tj ET
+0.120 0.160 0.220 rg
+BT /F2 8.5 Tf 537.28 602.89 Td (13) Tj ET
+0.120 0.160 0.220 rg
+BT /F1 8.5 Tf 42.00 585.89 Td (src/main/java/es/activa/domain/Cliente.java) Tj ET
+0.120 0.160 0.220 rg
+BT /F2 8.5 Tf 537.28 585.89 Td (15) Tj ET
+0.120 0.160 0.220 rg
+BT /F1 8.5 Tf 42.00 568.89 Td (src/main/java/es/activa/domain/Monitor.java) Tj ET
+0.120 0.160 0.220 rg
+BT /F2 8.5 Tf 537.28 568.89 Td (16) Tj ET
+0.120 0.160 0.220 rg
+BT /F1 8.5 Tf 42.00 551.89 Td (src/main/java/es/activa/domain/Reserva.java) Tj ET
+0.120 0.160 0.220 rg
+BT /F2 8.5 Tf 537.28 551.89 Td (17) Tj ET
+0.120 0.160 0.220 rg
+BT /F1 8.5 Tf 42.00 534.89 Td (src/main/java/es/activa/service/ActivaService.java) Tj ET
+0.120 0.160 0.220 rg
+BT /F2 8.5 Tf 537.28 534.89 Td (18) Tj ET
+0.120 0.160 0.220 rg
+BT /F1 8.5 Tf 42.00 517.89 Td (src/main/java/es/activa/main/ActivaApplication.java) Tj ET
+0.120 0.160 0.220 rg
+BT /F2 8.5 Tf 537.28 517.89 Td (23) Tj ET
+0.65 0.67 0.70 rg
+BT /F1 8 Tf 42.00 24 Td (Activa - Código del proyecto) Tj ET
+BT /F1 8 Tf 515.28 24 Td (Página 2) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 3 0 R /F3 5 0 R /F4 4 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 7513 >>
+stream
+q
+0.08 0.24 0.42 RG
+1 w
+42 806.89 m 553.28 806.89 l S
+Q
+0.080 0.240 0.420 rg
+BT /F3 12 Tf 42.00 787.89 Td (PARTE: README.md) Tj ET
+0.360 0.390 0.430 rg
+BT /F2 8 Tf 42.00 767.89 Td (README.md) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 744.89 Td (# Activa: reservas de actividades guiadas) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 735.69 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 726.49 Td (Aplicación Java de consola para gestionar monitores, actividades, clientes y reservas con JPA y Hibernate) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 717.29 Td (.) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 708.09 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 698.89 Td (## Requisitos) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 689.69 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 680.49 Td (- Java 25 \(LTS\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 671.29 Td (- Maven 3.9 o posterior) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 662.09 Td (- MySQL 8 y el esquema `dbactiva` preparado mediante el script `dbactiva.sql` proporcionado por la tarea) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 652.89 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 643.69 Td (El proyecto utiliza Hibernate ORM 6.4.10.Final y el conector MySQL 8.4.0. No incluye ni genera el script ) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 634.49 Td (de tablas. Hibernate está configurado con `hibernate.hbm2ddl.auto=validate`: comprueba el esquema existen) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 625.29 Td (te y no lo crea ni lo modifica.) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 616.09 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 606.89 Td (## Conexión) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 597.69 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 588.49 Td (La conexión predeterminada es `jdbc:mysql://localhost:3306/dbactiva`, con el usuario `root`. Configura la) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 579.29 Td ( contraseña mediante `DB_PASSWORD`; también se pueden cambiar la URL y el usuario. No guardes credenciale) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 570.09 Td (s reales en archivos versionados:) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 560.89 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 551.69 Td (- `DB_URL`: URL JDBC de la base de datos) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 542.49 Td (- `DB_USER`: usuario) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 533.29 Td (- `DB_PASSWORD`: contraseña) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 524.09 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 514.89 Td (En PowerShell, establece la contraseña solo en la sesión actual antes de ejecutar la aplicación:) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 505.69 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 496.49 Td (```powershell) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 487.29 Td ($secret = Read-Host "Contraseña de MySQL" -AsSecureString) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 478.09 Td ($pointer = [Runtime.InteropServices.Marshal]::SecureStringToBSTR\($secret\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 468.89 Td (try {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 459.69 Td (    $env:DB_PASSWORD = [Runtime.InteropServices.Marshal]::PtrToStringBSTR\($pointer\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 450.49 Td (    mvn exec:java) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 441.29 Td (} finally {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 432.09 Td (    Remove-Item Env:DB_PASSWORD -ErrorAction SilentlyContinue) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 422.89 Td (    [Runtime.InteropServices.Marshal]::ZeroFreeBSTR\($pointer\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 413.69 Td (}) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 404.49 Td (```) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 395.29 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 386.09 Td (## Ejecución) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 376.89 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 367.69 Td (Desde la carpeta del proyecto, ejecuta:) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 358.49 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 349.29 Td (```text) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 340.09 Td (mvn clean compile) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 330.89 Td (mvn exec:java) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 321.69 Td (```) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 312.49 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 303.29 Td (El menú permanece activo hasta elegir la opción 10. Las opciones 8 y 9 permiten modificar y eliminar moni) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 294.09 Td (tores, actividades y clientes. No se puede borrar un monitor con actividades ni una actividad o cliente c) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 284.89 Td (on reservas; primero hay que reasignar o eliminar las referencias dependientes, cancelando las reservas d) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 275.69 Td (esde la opción 6. Para buscar actividades se introduce la fecha como `dd/MM/yyyy`; para crear o modificar) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 266.49 Td ( una actividad, como `dd/MM/yyyy HH:mm`.) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 257.29 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 248.09 Td (## Ejecución con Docker) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 238.89 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 229.69 Td (Requiere Docker Desktop con Docker Compose. La configuración levanta MySQL 8.4 y la aplicación Java 25. E) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 220.49 Td (l volumen `mysql-data` conserva la base de datos entre reinicios. Hibernate solo valida el esquema \(`vali) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 211.29 Td (date`\); no crea tablas.) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 202.09 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 192.89 Td (1. Crea el fichero local de variables, que está excluido del control de versiones, y ábrelo para reemplaz) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 183.69 Td (ar la contraseña de ejemplo por la contraseña configurada en MySQL. Compose necesita este archivo para in) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 174.49 Td (terpolar `MYSQL_ROOT_PASSWORD`:) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 165.29 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 156.09 Td (   ```powershell) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 146.89 Td (   Copy-Item .env.example .env) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 137.69 Td (   notepad .env) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 128.49 Td (   ```) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 119.29 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 110.09 Td (   Deja la variable con este formato, usando la contraseña real de MySQL:) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 100.89 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 91.69 Td (   ```text) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 82.49 Td (   MYSQL_ROOT_PASSWORD=tu_contraseña_de_root) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 73.29 Td (   ```) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 64.09 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 54.89 Td (2. Inicia MySQL:) Tj ET
+0.65 0.67 0.70 rg
+BT /F1 8 Tf 42.00 24 Td (Activa - Código del proyecto) Tj ET
+BT /F1 8 Tf 515.28 24 Td (Página 3) Tj ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 3 0 R /F3 5 0 R /F4 4 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 4062 >>
+stream
+q
+0.08 0.24 0.42 RG
+1 w
+42 806.89 m 553.28 806.89 l S
+Q
+0.080 0.240 0.420 rg
+BT /F3 10 Tf 42.00 787.89 Td (PARTE: README.md \(continuación\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 763.89 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 754.69 Td (   ```powershell) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 745.49 Td (   docker compose up -d db) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 736.29 Td (   ```) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 727.09 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 717.89 Td (3. Copia el `dbactiva.sql` entregado con la tarea a la carpeta del proyecto e impórtalo una sola vez en l) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 708.69 Td (a base MySQL del contenedor:) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 699.49 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 690.29 Td (   ```powershell) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 681.09 Td (   docker compose cp .\\dbactiva.sql db:/tmp/dbactiva.sql) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 671.89 Td (   docker compose exec db sh -c 'mysql -uroot -p"$MYSQL_ROOT_PASSWORD" < /tmp/dbactiva.sql') Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 662.69 Td (   ```) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 653.49 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 644.29 Td (4. Construye la imagen y ejecuta la aplicación interactiva:) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 635.09 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 625.89 Td (   ```powershell) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 616.69 Td (   docker compose --profile app run --build --rm app) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 607.49 Td (   ```) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 598.29 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 589.09 Td (Elige la opción 10 para salir. Para volver a iniciar la aplicación, repite el paso 4; no vuelvas a import) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 579.89 Td (ar el script. `docker compose down` detiene y elimina los contenedores, pero conserva el volumen de datos) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 570.69 Td (.) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 561.49 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 552.29 Td (## Organización) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 543.09 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 533.89 Td (- `domain`: entidades JPA `Monitor`, `Actividad`, `Cliente` y `Reserva`.) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 524.69 Td (- `service`: reglas de negocio, consultas JPQL y transacciones.) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 515.49 Td (- `config`: creación de la fábrica `EntityManagerFactory`.) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 506.29 Td (- `main`: menú e interacción con consola.) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 497.09 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 487.89 Td (La reserva y la cancelación usan un único `EntityManager` y una transacción por operación. Si se produce ) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 478.69 Td (una excepción, se ejecuta rollback antes de cerrar el gestor.) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 469.49 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 460.29 Td (## Uso de IA) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 451.09 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 441.89 Td (Se utilizó un asistente de IA como apoyo para estructurar e implementar el proyecto a partir del enunciad) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 432.69 Td (o. La persona que entrega el trabajo debe revisar el código, probarlo contra la base de datos proporciona) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 423.49 Td (da y explicar las decisiones tomadas; esta nota no sustituye la autoevaluación ni las evidencias requerid) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 414.29 Td (as por la tarea.) Tj ET
+0.65 0.67 0.70 rg
+BT /F1 8 Tf 42.00 24 Td (Activa - Código del proyecto) Tj ET
+BT /F1 8 Tf 515.28 24 Td (Página 4) Tj ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 3 0 R /F3 5 0 R /F4 4 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 5475 >>
+stream
+q
+0.08 0.24 0.42 RG
+1 w
+42 806.89 m 553.28 806.89 l S
+Q
+0.080 0.240 0.420 rg
+BT /F3 12 Tf 42.00 787.89 Td (PARTE: pom.xml) Tj ET
+0.360 0.390 0.430 rg
+BT /F2 8 Tf 42.00 767.89 Td (pom.xml) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 744.89 Td (<?xml version="1.0" encoding="UTF-8"?>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 735.69 Td (<project xmlns="http://maven.apache.org/POM/4.0.0") Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 726.49 Td (         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance") Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 717.29 Td (         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.x) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 708.09 Td (sd">) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 698.89 Td (    <modelVersion>4.0.0</modelVersion>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 689.69 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 680.49 Td (    <groupId>es.activa</groupId>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 671.29 Td (    <artifactId>activa-reservas</artifactId>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 662.09 Td (    <version>1.0.0</version>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 652.89 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 643.69 Td (    <properties>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 634.49 Td (        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 625.29 Td (        <maven.compiler.release>25</maven.compiler.release>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 616.09 Td (        <hibernate.version>6.4.10.Final</hibernate.version>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 606.89 Td (    </properties>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 597.69 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 588.49 Td (    <dependencies>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 579.29 Td (        <dependency>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 570.09 Td (            <groupId>org.hibernate.orm</groupId>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 560.89 Td (            <artifactId>hibernate-core</artifactId>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 551.69 Td (            <version>${hibernate.version}</version>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 542.49 Td (        </dependency>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 533.29 Td (        <dependency>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 524.09 Td (            <groupId>com.mysql</groupId>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 514.89 Td (            <artifactId>mysql-connector-j</artifactId>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 505.69 Td (            <version>8.4.0</version>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 496.49 Td (            <scope>runtime</scope>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 487.29 Td (        </dependency>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 478.09 Td (        <dependency>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 468.89 Td (            <groupId>org.slf4j</groupId>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 459.69 Td (            <artifactId>slf4j-simple</artifactId>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 450.49 Td (            <version>2.0.13</version>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 441.29 Td (            <scope>runtime</scope>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 432.09 Td (        </dependency>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 422.89 Td (    </dependencies>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 413.69 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 404.49 Td (    <build>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 395.29 Td (        <plugins>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 386.09 Td (            <plugin>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 376.89 Td (                <groupId>org.apache.maven.plugins</groupId>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 367.69 Td (                <artifactId>maven-compiler-plugin</artifactId>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 358.49 Td (                <version>3.13.0</version>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 349.29 Td (            </plugin>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 340.09 Td (            <plugin>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 330.89 Td (                <groupId>org.codehaus.mojo</groupId>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 321.69 Td (                <artifactId>exec-maven-plugin</artifactId>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 312.49 Td (                <version>3.3.0</version>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 303.29 Td (                <configuration>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 294.09 Td (                    <mainClass>es.activa.main.ActivaApplication</mainClass>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 284.89 Td (                </configuration>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 275.69 Td (            </plugin>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 266.49 Td (        </plugins>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 257.29 Td (    </build>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 248.09 Td (</project>) Tj ET
+0.65 0.67 0.70 rg
+BT /F1 8 Tf 42.00 24 Td (Activa - Código del proyecto) Tj ET
+BT /F1 8 Tf 515.28 24 Td (Página 5) Tj ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 3 0 R /F3 5 0 R /F4 4 0 R >> >> /Contents 14 0 R >>
+endobj
+16 0 obj
+<< /Length 2091 >>
+stream
+q
+0.08 0.24 0.42 RG
+1 w
+42 806.89 m 553.28 806.89 l S
+Q
+0.080 0.240 0.420 rg
+BT /F3 12 Tf 42.00 787.89 Td (PARTE: Dockerfile) Tj ET
+0.360 0.390 0.430 rg
+BT /F2 8 Tf 42.00 767.89 Td (Dockerfile) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 744.89 Td (FROM maven:3.9-eclipse-temurin-25 AS build) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 735.69 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 726.49 Td (WORKDIR /workspace) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 717.29 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 708.09 Td (COPY pom.xml .) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 698.89 Td (COPY src ./src) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 689.69 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 680.49 Td (RUN mvn -B -DskipTests package dependency:copy-dependencies \\) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 671.29 Td (    -DincludeScope=runtime \\) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 662.09 Td (    -DoutputDirectory=/workspace/target/dependency) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 652.89 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 643.69 Td (FROM eclipse-temurin:25-jre) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 634.49 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 625.29 Td (WORKDIR /app) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 616.09 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 606.89 Td (COPY --from=build --chown=10001:10001 /workspace/target/classes ./classes) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 597.69 Td (COPY --from=build --chown=10001:10001 /workspace/target/dependency/ ./lib/) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 588.49 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 579.29 Td (USER 10001:10001) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 570.09 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 560.89 Td (ENTRYPOINT ["java", "-cp", "classes:lib/*", "es.activa.main.ActivaApplication"]) Tj ET
+0.65 0.67 0.70 rg
+BT /F1 8 Tf 42.00 24 Td (Activa - Código del proyecto) Tj ET
+BT /F1 8 Tf 515.28 24 Td (Página 6) Tj ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 3 0 R /F3 5 0 R /F4 4 0 R >> >> /Contents 16 0 R >>
+endobj
+18 0 obj
+<< /Length 2926 >>
+stream
+q
+0.08 0.24 0.42 RG
+1 w
+42 806.89 m 553.28 806.89 l S
+Q
+0.080 0.240 0.420 rg
+BT /F3 12 Tf 42.00 787.89 Td (PARTE: compose.yaml) Tj ET
+0.360 0.390 0.430 rg
+BT /F2 8 Tf 42.00 767.89 Td (compose.yaml) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 744.89 Td (services:) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 735.69 Td (  db:) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 726.49 Td (    image: mysql:8.4) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 717.29 Td (    environment:) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 708.09 Td (      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD:?Define MYSQL_ROOT_PASSWORD in .env}) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 698.89 Td (    volumes:) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 689.69 Td (      - mysql-data:/var/lib/mysql) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 680.49 Td (    healthcheck:) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 671.29 Td (      test: ["CMD-SHELL", "mysqladmin ping -h 127.0.0.1 -uroot -p\\"$$MYSQL_ROOT_PASSWORD\\" --silent"]) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 662.09 Td (      interval: 5s) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 652.89 Td (      timeout: 5s) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 643.69 Td (      retries: 20) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 634.49 Td (      start_period: 30s) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 625.29 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 616.09 Td (  app:) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 606.89 Td (    profiles: ["app"]) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 597.69 Td (    build:) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 588.49 Td (      context: .) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 579.29 Td (      dockerfile: Dockerfile) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 570.09 Td (    environment:) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 560.89 Td (      DB_URL: jdbc:mysql://db:3306/dbactiva?serverTimezone=UTC) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 551.69 Td (      DB_USER: root) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 542.49 Td (      DB_PASSWORD: ${MYSQL_ROOT_PASSWORD:?Define MYSQL_ROOT_PASSWORD in .env}) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 533.29 Td (    depends_on:) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 524.09 Td (      db:) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 514.89 Td (        condition: service_healthy) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 505.69 Td (    stdin_open: true) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 496.49 Td (    tty: true) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 487.29 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 478.09 Td (volumes:) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 468.89 Td (  mysql-data:) Tj ET
+0.65 0.67 0.70 rg
+BT /F1 8 Tf 42.00 24 Td (Activa - Código del proyecto) Tj ET
+BT /F1 8 Tf 515.28 24 Td (Página 7) Tj ET
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 3 0 R /F3 5 0 R /F4 4 0 R >> >> /Contents 18 0 R >>
+endobj
+20 0 obj
+<< /Length 536 >>
+stream
+q
+0.08 0.24 0.42 RG
+1 w
+42 806.89 m 553.28 806.89 l S
+Q
+0.080 0.240 0.420 rg
+BT /F3 12 Tf 42.00 787.89 Td (PARTE: .env.example) Tj ET
+0.360 0.390 0.430 rg
+BT /F2 8 Tf 42.00 767.89 Td (.env.example) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 744.89 Td (# Change this value before starting the containers.) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 735.69 Td (MYSQL_ROOT_PASSWORD=change-this-password) Tj ET
+0.65 0.67 0.70 rg
+BT /F1 8 Tf 42.00 24 Td (Activa - Código del proyecto) Tj ET
+BT /F1 8 Tf 515.28 24 Td (Página 8) Tj ET
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 3 0 R /F3 5 0 R /F4 4 0 R >> >> /Contents 20 0 R >>
+endobj
+22 0 obj
+<< /Length 651 >>
+stream
+q
+0.08 0.24 0.42 RG
+1 w
+42 806.89 m 553.28 806.89 l S
+Q
+0.080 0.240 0.420 rg
+BT /F3 12 Tf 42.00 787.89 Td (PARTE: .gitignore) Tj ET
+0.360 0.390 0.430 rg
+BT /F2 8 Tf 42.00 767.89 Td (.gitignore) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 744.89 Td (target/) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 735.69 Td (.idea/) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 726.49 Td (.vscode/) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 717.29 Td (*.iml) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 708.09 Td (.env) Tj ET
+0.65 0.67 0.70 rg
+BT /F1 8 Tf 42.00 24 Td (Activa - Código del proyecto) Tj ET
+BT /F1 8 Tf 515.28 24 Td (Página 9) Tj ET
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 3 0 R /F3 5 0 R /F4 4 0 R >> >> /Contents 22 0 R >>
+endobj
+24 0 obj
+<< /Length 852 >>
+stream
+q
+0.08 0.24 0.42 RG
+1 w
+42 806.89 m 553.28 806.89 l S
+Q
+0.080 0.240 0.420 rg
+BT /F3 12 Tf 42.00 787.89 Td (PARTE: .dockerignore) Tj ET
+0.360 0.390 0.430 rg
+BT /F2 8 Tf 42.00 767.89 Td (.dockerignore) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 744.89 Td (.git) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 735.69 Td (.idea) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 726.49 Td (.vscode) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 717.29 Td (target) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 708.09 Td (.env) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 698.89 Td (*.iml) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 689.69 Td (*.docx) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 680.49 Td (*.docx#) Tj ET
+0.65 0.67 0.70 rg
+BT /F1 8 Tf 42.00 24 Td (Activa - Código del proyecto) Tj ET
+BT /F1 8 Tf 515.28 24 Td (Página 10) Tj ET
+endstream
+endobj
+25 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 3 0 R /F3 5 0 R /F4 4 0 R >> >> /Contents 24 0 R >>
+endobj
+26 0 obj
+<< /Length 2998 >>
+stream
+q
+0.08 0.24 0.42 RG
+1 w
+42 806.89 m 553.28 806.89 l S
+Q
+0.080 0.240 0.420 rg
+BT /F3 12 Tf 42.00 787.89 Td (PARTE: src/main/resources/META-INF/persistence.xml) Tj ET
+0.360 0.390 0.430 rg
+BT /F2 8 Tf 42.00 767.89 Td (src/main/resources/META-INF/persistence.xml) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 744.89 Td (<?xml version="1.0" encoding="UTF-8"?>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 735.69 Td (<persistence xmlns="https://jakarta.ee/xml/ns/persistence") Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 726.49 Td (             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance") Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 717.29 Td (             xsi:schemaLocation="https://jakarta.ee/xml/ns/persistence https://jakarta.ee/xml/ns/persiste) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 708.09 Td (nce/persistence_3_0.xsd") Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 698.89 Td (             version="3.0">) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 689.69 Td (    <persistence-unit name="activaPU" transaction-type="RESOURCE_LOCAL">) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 680.49 Td (        <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 671.29 Td (        <class>es.activa.domain.Monitor</class>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 662.09 Td (        <class>es.activa.domain.Actividad</class>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 652.89 Td (        <class>es.activa.domain.Cliente</class>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 643.69 Td (        <class>es.activa.domain.Reserva</class>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 634.49 Td (        <properties>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 625.29 Td (            <property name="jakarta.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver"/>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 616.09 Td (            <property name="jakarta.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/dbactiva?ser) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 606.89 Td (verTimezone=UTC"/>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 597.69 Td (            <property name="jakarta.persistence.jdbc.user" value="root"/>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 588.49 Td (            <property name="jakarta.persistence.jdbc.password" value=""/>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 579.29 Td (            <property name="hibernate.hbm2ddl.auto" value="validate"/>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 570.09 Td (            <property name="hibernate.show_sql" value="false"/>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 560.89 Td (        </properties>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 551.69 Td (    </persistence-unit>) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 542.49 Td (</persistence>) Tj ET
+0.65 0.67 0.70 rg
+BT /F1 8 Tf 42.00 24 Td (Activa - Código del proyecto) Tj ET
+BT /F1 8 Tf 515.28 24 Td (Página 11) Tj ET
+endstream
+endobj
+27 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 3 0 R /F3 5 0 R /F4 4 0 R >> >> /Contents 26 0 R >>
+endobj
+28 0 obj
+<< /Length 3056 >>
+stream
+q
+0.08 0.24 0.42 RG
+1 w
+42 806.89 m 553.28 806.89 l S
+Q
+0.080 0.240 0.420 rg
+BT /F3 12 Tf 42.00 787.89 Td (PARTE: src/main/java/es/activa/config/PersistenceConfig.java) Tj ET
+0.360 0.390 0.430 rg
+BT /F2 8 Tf 42.00 767.89 Td (src/main/java/es/activa/config/PersistenceConfig.java) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 744.89 Td (package es.activa.config;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 735.69 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 726.49 Td (import jakarta.persistence.EntityManagerFactory;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 717.29 Td (import jakarta.persistence.Persistence;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 708.09 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 698.89 Td (import java.util.HashMap;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 689.69 Td (import java.util.Map;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 680.49 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 671.29 Td (public final class PersistenceConfig {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 662.09 Td (    private PersistenceConfig\(\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 652.89 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 643.69 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 634.49 Td (    public static EntityManagerFactory createEntityManagerFactory\(\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 625.29 Td (        Map<String, Object> properties = new HashMap<>\(\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 616.09 Td (        putEnvironmentValue\(properties, "DB_URL", "jakarta.persistence.jdbc.url"\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 606.89 Td (        putEnvironmentValue\(properties, "DB_USER", "jakarta.persistence.jdbc.user"\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 597.69 Td (        putEnvironmentValue\(properties, "DB_PASSWORD", "jakarta.persistence.jdbc.password"\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 588.49 Td (        return Persistence.createEntityManagerFactory\("activaPU", properties\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 579.29 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 570.09 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 560.89 Td (    private static void putEnvironmentValue\(Map<String, Object> properties, String variable, String prope) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 551.69 Td (rty\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 542.49 Td (        String value = System.getenv\(variable\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 533.29 Td (        if \(value != null\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 524.09 Td (            properties.put\(property, value\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 514.89 Td (        }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 505.69 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 496.49 Td (}) Tj ET
+0.65 0.67 0.70 rg
+BT /F1 8 Tf 42.00 24 Td (Activa - Código del proyecto) Tj ET
+BT /F1 8 Tf 515.28 24 Td (Página 12) Tj ET
+endstream
+endobj
+29 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 3 0 R /F3 5 0 R /F4 4 0 R >> >> /Contents 28 0 R >>
+endobj
+30 0 obj
+<< /Length 7185 >>
+stream
+q
+0.08 0.24 0.42 RG
+1 w
+42 806.89 m 553.28 806.89 l S
+Q
+0.080 0.240 0.420 rg
+BT /F3 12 Tf 42.00 787.89 Td (PARTE: src/main/java/es/activa/domain/Actividad.java) Tj ET
+0.360 0.390 0.430 rg
+BT /F2 8 Tf 42.00 767.89 Td (src/main/java/es/activa/domain/Actividad.java) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 744.89 Td (package es.activa.domain;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 735.69 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 726.49 Td (import jakarta.persistence.Column;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 717.29 Td (import jakarta.persistence.Entity;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 708.09 Td (import jakarta.persistence.FetchType;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 698.89 Td (import jakarta.persistence.GeneratedValue;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 689.69 Td (import jakarta.persistence.GenerationType;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 680.49 Td (import jakarta.persistence.Id;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 671.29 Td (import jakarta.persistence.JoinColumn;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 662.09 Td (import jakarta.persistence.ManyToOne;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 652.89 Td (import jakarta.persistence.Table;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 643.69 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 634.49 Td (import java.time.LocalDateTime;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 625.29 Td (import java.util.Objects;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 616.09 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 606.89 Td (@Entity) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 597.69 Td (@Table\(name = "actividad"\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 588.49 Td (public class Actividad {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 579.29 Td (    @Id) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 570.09 Td (    @GeneratedValue\(strategy = GenerationType.IDENTITY\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 560.89 Td (    private Long id;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 551.69 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 542.49 Td (    @Column\(name = "nombre", nullable = false\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 533.29 Td (    private String nombre;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 524.09 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 514.89 Td (    @Column\(name = "localidad", nullable = false\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 505.69 Td (    private String localidad;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 496.49 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 487.29 Td (    @Column\(name = "fecha_hora", nullable = false\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 478.09 Td (    private LocalDateTime fechaHora;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 468.89 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 459.69 Td (    @Column\(name = "plazas_totales", nullable = false\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 450.49 Td (    private int plazasTotales;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 441.29 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 432.09 Td (    @Column\(name = "plazas_disponibles", nullable = false\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 422.89 Td (    private int plazasDisponibles;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 413.69 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 404.49 Td (    @ManyToOne\(fetch = FetchType.LAZY, optional = false\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 395.29 Td (    @JoinColumn\(name = "monitor_id", nullable = false\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 386.09 Td (    private Monitor monitor;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 376.89 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 367.69 Td (    protected Actividad\(\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 358.49 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 349.29 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 340.09 Td (    public Actividad\(String nombre, String localidad, LocalDateTime fechaHora, int plazasTotales, Monitor) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 330.89 Td ( monitor\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 321.69 Td (        this.nombre = nombre;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 312.49 Td (        this.localidad = localidad;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 303.29 Td (        this.fechaHora = fechaHora;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 294.09 Td (        this.plazasTotales = plazasTotales;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 284.89 Td (        this.plazasDisponibles = plazasTotales;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 275.69 Td (        setMonitor\(monitor\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 266.49 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 257.29 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 248.09 Td (    public void setMonitor\(Monitor monitor\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 238.89 Td (        Objects.requireNonNull\(monitor, "La actividad debe tener un monitor."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 229.69 Td (        if \(this.monitor == monitor\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 220.49 Td (            monitor.addActividadReference\(this\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 211.29 Td (            return;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 202.09 Td (        }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 192.89 Td (        if \(this.monitor != null\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 183.69 Td (            this.monitor.removeActividadReference\(this\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 174.49 Td (        }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 165.29 Td (        this.monitor = monitor;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 156.09 Td (        monitor.addActividadReference\(this\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 146.89 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 137.69 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 128.49 Td (    public void desvincularMonitorAlEliminar\(\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 119.29 Td (        if \(monitor != null\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 110.09 Td (            Monitor monitorAnterior = monitor;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 100.89 Td (            monitor = null;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 91.69 Td (            monitorAnterior.removeActividadReference\(this\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 82.49 Td (        }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 73.29 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 64.09 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 54.89 Td (    public void actualizar\(String nombre, String localidad, LocalDateTime fechaHora,) Tj ET
+0.65 0.67 0.70 rg
+BT /F1 8 Tf 42.00 24 Td (Activa - Código del proyecto) Tj ET
+BT /F1 8 Tf 515.28 24 Td (Página 13) Tj ET
+endstream
+endobj
+31 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 3 0 R /F3 5 0 R /F4 4 0 R >> >> /Contents 30 0 R >>
+endobj
+32 0 obj
+<< /Length 4539 >>
+stream
+q
+0.08 0.24 0.42 RG
+1 w
+42 806.89 m 553.28 806.89 l S
+Q
+0.080 0.240 0.420 rg
+BT /F3 10 Tf 42.00 787.89 Td (PARTE: src/main/java/es/activa/domain/Actividad.java \(continuación\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 763.89 Td (                           int plazasTotales, Monitor monitor\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 754.69 Td (        int plazasReservadas = this.plazasTotales - this.plazasDisponibles;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 745.49 Td (        if \(plazasTotales < plazasReservadas\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 736.29 Td (            throw new IllegalArgumentException\() Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 727.09 Td (                    "Las plazas totales no pueden ser inferiores a las plazas ya reservadas."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 717.89 Td (        }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 708.69 Td (        this.nombre = nombre;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 699.49 Td (        this.localidad = localidad;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 690.29 Td (        this.fechaHora = fechaHora;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 681.09 Td (        this.plazasTotales = plazasTotales;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 671.89 Td (        this.plazasDisponibles = plazasTotales - plazasReservadas;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 662.69 Td (        setMonitor\(monitor\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 653.49 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 644.29 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 635.09 Td (    public void reservar\(int numeroPlazas\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 625.89 Td (        plazasDisponibles -= numeroPlazas;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 616.69 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 607.49 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 598.29 Td (    public void liberar\(int numeroPlazas\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 589.09 Td (        plazasDisponibles += numeroPlazas;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 579.89 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 570.69 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 561.49 Td (    public Long getId\(\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 552.29 Td (        return id;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 543.09 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 533.89 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 524.69 Td (    public String getNombre\(\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 515.49 Td (        return nombre;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 506.29 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 497.09 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 487.89 Td (    public String getLocalidad\(\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 478.69 Td (        return localidad;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 469.49 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 460.29 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 451.09 Td (    public LocalDateTime getFechaHora\(\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 441.89 Td (        return fechaHora;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 432.69 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 423.49 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 414.29 Td (    public int getPlazasTotales\(\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 405.09 Td (        return plazasTotales;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 395.89 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 386.69 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 377.49 Td (    public int getPlazasDisponibles\(\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 368.29 Td (        return plazasDisponibles;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 359.09 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 349.89 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 340.69 Td (    public Monitor getMonitor\(\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 331.49 Td (        return monitor;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 322.29 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 313.09 Td (}) Tj ET
+0.65 0.67 0.70 rg
+BT /F1 8 Tf 42.00 24 Td (Activa - Código del proyecto) Tj ET
+BT /F1 8 Tf 515.28 24 Td (Página 14) Tj ET
+endstream
+endobj
+33 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 3 0 R /F3 5 0 R /F4 4 0 R >> >> /Contents 32 0 R >>
+endobj
+34 0 obj
+<< /Length 4181 >>
+stream
+q
+0.08 0.24 0.42 RG
+1 w
+42 806.89 m 553.28 806.89 l S
+Q
+0.080 0.240 0.420 rg
+BT /F3 12 Tf 42.00 787.89 Td (PARTE: src/main/java/es/activa/domain/Cliente.java) Tj ET
+0.360 0.390 0.430 rg
+BT /F2 8 Tf 42.00 767.89 Td (src/main/java/es/activa/domain/Cliente.java) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 744.89 Td (package es.activa.domain;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 735.69 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 726.49 Td (import jakarta.persistence.Column;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 717.29 Td (import jakarta.persistence.Entity;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 708.09 Td (import jakarta.persistence.GeneratedValue;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 698.89 Td (import jakarta.persistence.GenerationType;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 689.69 Td (import jakarta.persistence.Id;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 680.49 Td (import jakarta.persistence.Table;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 671.29 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 662.09 Td (@Entity) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 652.89 Td (@Table\(name = "cliente"\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 643.69 Td (public class Cliente {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 634.49 Td (    @Id) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 625.29 Td (    @GeneratedValue\(strategy = GenerationType.IDENTITY\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 616.09 Td (    private Long id;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 606.89 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 597.69 Td (    @Column\(name = "nombre", nullable = false\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 588.49 Td (    private String nombre;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 579.29 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 570.09 Td (    @Column\(name = "email", nullable = false, unique = true\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 560.89 Td (    private String email;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 551.69 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 542.49 Td (    protected Cliente\(\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 533.29 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 524.09 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 514.89 Td (    public Cliente\(String nombre, String email\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 505.69 Td (        this.nombre = nombre;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 496.49 Td (        this.email = email;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 487.29 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 478.09 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 468.89 Td (    public void actualizar\(String nombre, String email\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 459.69 Td (        this.nombre = nombre;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 450.49 Td (        this.email = email;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 441.29 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 432.09 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 422.89 Td (    public Long getId\(\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 413.69 Td (        return id;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 404.49 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 395.29 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 386.09 Td (    public String getNombre\(\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 376.89 Td (        return nombre;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 367.69 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 358.49 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 349.29 Td (    public String getEmail\(\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 340.09 Td (        return email;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 330.89 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 321.69 Td (}) Tj ET
+0.65 0.67 0.70 rg
+BT /F1 8 Tf 42.00 24 Td (Activa - Código del proyecto) Tj ET
+BT /F1 8 Tf 515.28 24 Td (Página 15) Tj ET
+endstream
+endobj
+35 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 3 0 R /F3 5 0 R /F4 4 0 R >> >> /Contents 34 0 R >>
+endobj
+36 0 obj
+<< /Length 6374 >>
+stream
+q
+0.08 0.24 0.42 RG
+1 w
+42 806.89 m 553.28 806.89 l S
+Q
+0.080 0.240 0.420 rg
+BT /F3 12 Tf 42.00 787.89 Td (PARTE: src/main/java/es/activa/domain/Monitor.java) Tj ET
+0.360 0.390 0.430 rg
+BT /F2 8 Tf 42.00 767.89 Td (src/main/java/es/activa/domain/Monitor.java) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 744.89 Td (package es.activa.domain;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 735.69 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 726.49 Td (import jakarta.persistence.Column;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 717.29 Td (import jakarta.persistence.Entity;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 708.09 Td (import jakarta.persistence.GeneratedValue;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 698.89 Td (import jakarta.persistence.GenerationType;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 689.69 Td (import jakarta.persistence.Id;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 680.49 Td (import jakarta.persistence.OneToMany;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 671.29 Td (import jakarta.persistence.Table;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 662.09 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 652.89 Td (import java.util.ArrayList;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 643.69 Td (import java.util.List;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 634.49 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 625.29 Td (@Entity) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 616.09 Td (@Table\(name = "monitor"\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 606.89 Td (public class Monitor {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 597.69 Td (    @Id) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 588.49 Td (    @GeneratedValue\(strategy = GenerationType.IDENTITY\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 579.29 Td (    private Long id;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 570.09 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 560.89 Td (    @Column\(name = "nombre", nullable = false\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 551.69 Td (    private String nombre;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 542.49 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 533.29 Td (    @Column\(name = "especialidad", nullable = false\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 524.09 Td (    private String especialidad;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 514.89 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 505.69 Td (    @OneToMany\(mappedBy = "monitor"\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 496.49 Td (    private List<Actividad> actividades = new ArrayList<>\(\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 487.29 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 478.09 Td (    protected Monitor\(\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 468.89 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 459.69 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 450.49 Td (    public Monitor\(String nombre, String especialidad\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 441.29 Td (        this.nombre = nombre;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 432.09 Td (        this.especialidad = especialidad;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 422.89 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 413.69 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 404.49 Td (    public void addActividad\(Actividad actividad\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 395.29 Td (        actividad.setMonitor\(this\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 386.09 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 376.89 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 367.69 Td (    void addActividadReference\(Actividad actividad\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 358.49 Td (        if \(!actividades.contains\(actividad\)\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 349.29 Td (            actividades.add\(actividad\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 340.09 Td (        }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 330.89 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 321.69 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 312.49 Td (    void removeActividadReference\(Actividad actividad\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 303.29 Td (        actividades.remove\(actividad\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 294.09 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 284.89 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 275.69 Td (    public void actualizar\(String nombre, String especialidad\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 266.49 Td (        this.nombre = nombre;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 257.29 Td (        this.especialidad = especialidad;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 248.09 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 238.89 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 229.69 Td (    public Long getId\(\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 220.49 Td (        return id;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 211.29 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 202.09 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 192.89 Td (    public String getNombre\(\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 183.69 Td (        return nombre;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 174.49 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 165.29 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 156.09 Td (    public String getEspecialidad\(\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 146.89 Td (        return especialidad;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 137.69 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 128.49 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 119.29 Td (    public List<Actividad> getActividades\(\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 110.09 Td (        return List.copyOf\(actividades\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 100.89 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 91.69 Td (}) Tj ET
+0.65 0.67 0.70 rg
+BT /F1 8 Tf 42.00 24 Td (Activa - Código del proyecto) Tj ET
+BT /F1 8 Tf 515.28 24 Td (Página 16) Tj ET
+endstream
+endobj
+37 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 3 0 R /F3 5 0 R /F4 4 0 R >> >> /Contents 36 0 R >>
+endobj
+38 0 obj
+<< /Length 5278 >>
+stream
+q
+0.08 0.24 0.42 RG
+1 w
+42 806.89 m 553.28 806.89 l S
+Q
+0.080 0.240 0.420 rg
+BT /F3 12 Tf 42.00 787.89 Td (PARTE: src/main/java/es/activa/domain/Reserva.java) Tj ET
+0.360 0.390 0.430 rg
+BT /F2 8 Tf 42.00 767.89 Td (src/main/java/es/activa/domain/Reserva.java) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 744.89 Td (package es.activa.domain;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 735.69 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 726.49 Td (import jakarta.persistence.Column;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 717.29 Td (import jakarta.persistence.Entity;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 708.09 Td (import jakarta.persistence.FetchType;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 698.89 Td (import jakarta.persistence.GeneratedValue;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 689.69 Td (import jakarta.persistence.GenerationType;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 680.49 Td (import jakarta.persistence.Id;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 671.29 Td (import jakarta.persistence.JoinColumn;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 662.09 Td (import jakarta.persistence.ManyToOne;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 652.89 Td (import jakarta.persistence.Table;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 643.69 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 634.49 Td (import java.time.LocalDateTime;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 625.29 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 616.09 Td (@Entity) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 606.89 Td (@Table\(name = "reserva"\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 597.69 Td (public class Reserva {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 588.49 Td (    @Id) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 579.29 Td (    @GeneratedValue\(strategy = GenerationType.IDENTITY\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 570.09 Td (    private Long id;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 560.89 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 551.69 Td (    @Column\(name = "fecha_reserva", nullable = false\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 542.49 Td (    private LocalDateTime fechaReserva;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 533.29 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 524.09 Td (    @Column\(name = "numero_plazas", nullable = false\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 514.89 Td (    private int numeroPlazas;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 505.69 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 496.49 Td (    @ManyToOne\(fetch = FetchType.LAZY, optional = false\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 487.29 Td (    @JoinColumn\(name = "actividad_id", nullable = false\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 478.09 Td (    private Actividad actividad;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 468.89 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 459.69 Td (    @ManyToOne\(fetch = FetchType.LAZY, optional = false\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 450.49 Td (    @JoinColumn\(name = "cliente_id", nullable = false\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 441.29 Td (    private Cliente cliente;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 432.09 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 422.89 Td (    protected Reserva\(\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 413.69 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 404.49 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 395.29 Td (    public Reserva\(LocalDateTime fechaReserva, int numeroPlazas, Actividad actividad, Cliente cliente\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 386.09 Td (        this.fechaReserva = fechaReserva;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 376.89 Td (        this.numeroPlazas = numeroPlazas;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 367.69 Td (        this.actividad = actividad;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 358.49 Td (        this.cliente = cliente;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 349.29 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 340.09 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 330.89 Td (    public Long getId\(\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 321.69 Td (        return id;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 312.49 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 303.29 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 294.09 Td (    public int getNumeroPlazas\(\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 284.89 Td (        return numeroPlazas;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 275.69 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 266.49 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 257.29 Td (    public Actividad getActividad\(\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 248.09 Td (        return actividad;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 238.89 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 229.69 Td (}) Tj ET
+0.65 0.67 0.70 rg
+BT /F1 8 Tf 42.00 24 Td (Activa - Código del proyecto) Tj ET
+BT /F1 8 Tf 515.28 24 Td (Página 17) Tj ET
+endstream
+endobj
+39 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 3 0 R /F3 5 0 R /F4 4 0 R >> >> /Contents 38 0 R >>
+endobj
+40 0 obj
+<< /Length 7930 >>
+stream
+q
+0.08 0.24 0.42 RG
+1 w
+42 806.89 m 553.28 806.89 l S
+Q
+0.080 0.240 0.420 rg
+BT /F3 12 Tf 42.00 787.89 Td (PARTE: src/main/java/es/activa/service/ActivaService.java) Tj ET
+0.360 0.390 0.430 rg
+BT /F2 8 Tf 42.00 767.89 Td (src/main/java/es/activa/service/ActivaService.java) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 744.89 Td (package es.activa.service;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 735.69 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 726.49 Td (import es.activa.domain.Actividad;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 717.29 Td (import es.activa.domain.Cliente;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 708.09 Td (import es.activa.domain.Monitor;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 698.89 Td (import es.activa.domain.Reserva;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 689.69 Td (import jakarta.persistence.EntityManager;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 680.49 Td (import jakarta.persistence.EntityManagerFactory;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 671.29 Td (import jakarta.persistence.EntityTransaction;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 662.09 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 652.89 Td (import java.time.LocalDate;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 643.69 Td (import java.time.LocalDateTime;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 634.49 Td (import java.util.List;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 625.29 Td (import java.util.Locale;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 616.09 Td (import java.util.function.Function;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 606.89 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 597.69 Td (public class ActivaService {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 588.49 Td (    private final EntityManagerFactory entityManagerFactory;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 579.29 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 570.09 Td (    public ActivaService\(EntityManagerFactory entityManagerFactory\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 560.89 Td (        this.entityManagerFactory = entityManagerFactory;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 551.69 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 542.49 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 533.29 Td (    public Long crearMonitor\(String nombre, String especialidad\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 524.09 Td (        requireText\(nombre, "El nombre"\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 514.89 Td (        requireText\(especialidad, "La especialidad"\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 505.69 Td (        return inTransaction\(entityManager -> {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 496.49 Td (            Monitor monitor = new Monitor\(nombre.trim\(\), especialidad.trim\(\)\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 487.29 Td (            entityManager.persist\(monitor\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 478.09 Td (            return monitor.getId\(\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 468.89 Td (        }\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 459.69 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 450.49 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 441.29 Td (    public void modificarMonitor\(long monitorId, String nombre, String especialidad\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 432.09 Td (        requireText\(nombre, "El nombre"\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 422.89 Td (        requireText\(especialidad, "La especialidad"\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 413.69 Td (        inTransaction\(entityManager -> {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 404.49 Td (            Monitor monitor = entityManager.find\(Monitor.class, monitorId\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 395.29 Td (            if \(monitor == null\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 386.09 Td (                throw new IllegalArgumentException\("No existe un monitor con ese ID."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 376.89 Td (            }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 367.69 Td (            monitor.actualizar\(nombre.trim\(\), especialidad.trim\(\)\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 358.49 Td (            return null;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 349.29 Td (        }\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 340.09 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 330.89 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 321.69 Td (    public void eliminarMonitor\(long monitorId\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 312.49 Td (        inTransaction\(entityManager -> {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 303.29 Td (            Monitor monitor = entityManager.find\(Monitor.class, monitorId\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 294.09 Td (            if \(monitor == null\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 284.89 Td (                throw new IllegalArgumentException\("No existe un monitor con ese ID."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 275.69 Td (            }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 266.49 Td (            Long actividades = entityManager.createQuery\() Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 257.29 Td (                            "select count\(a\) from Actividad a where a.monitor.id = :monitorId", Long.clas) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 248.09 Td (s\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 238.89 Td (                    .setParameter\("monitorId", monitorId\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 229.69 Td (                    .getSingleResult\(\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 220.49 Td (            if \(actividades > 0\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 211.29 Td (                throw new IllegalArgumentException\() Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 202.09 Td (                        "No se puede eliminar el monitor porque tiene actividades asignadas."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 192.89 Td (            }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 183.69 Td (            entityManager.remove\(monitor\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 174.49 Td (            return null;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 165.29 Td (        }\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 156.09 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 146.89 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 137.69 Td (    public Long crearActividad\(String nombre, String localidad, LocalDateTime fechaHora,) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 128.49 Td (                               int plazasTotales, long monitorId\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 119.29 Td (        requireText\(nombre, "El nombre"\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 110.09 Td (        requireText\(localidad, "La localidad"\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 100.89 Td (        if \(fechaHora == null\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 91.69 Td (            throw new IllegalArgumentException\("La fecha y hora son obligatorias."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 82.49 Td (        }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 73.29 Td (        if \(plazasTotales <= 0\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 64.09 Td (            throw new IllegalArgumentException\("El número de plazas debe ser positivo."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 54.89 Td (        }) Tj ET
+0.65 0.67 0.70 rg
+BT /F1 8 Tf 42.00 24 Td (Activa - Código del proyecto) Tj ET
+BT /F1 8 Tf 515.28 24 Td (Página 18) Tj ET
+endstream
+endobj
+41 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 3 0 R /F3 5 0 R /F4 4 0 R >> >> /Contents 40 0 R >>
+endobj
+42 0 obj
+<< /Length 8959 >>
+stream
+q
+0.08 0.24 0.42 RG
+1 w
+42 806.89 m 553.28 806.89 l S
+Q
+0.080 0.240 0.420 rg
+BT /F3 10 Tf 42.00 787.89 Td (PARTE: src/main/java/es/activa/service/ActivaService.java \(continuación\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 763.89 Td (        return inTransaction\(entityManager -> {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 754.69 Td (            Monitor monitor = entityManager.find\(Monitor.class, monitorId\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 745.49 Td (            if \(monitor == null\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 736.29 Td (                throw new IllegalArgumentException\("No existe un monitor con ese ID."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 727.09 Td (            }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 717.89 Td (            Actividad actividad = new Actividad\() Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 708.69 Td (                    nombre.trim\(\), localidad.trim\(\), fechaHora, plazasTotales, monitor\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 699.49 Td (            monitor.addActividad\(actividad\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 690.29 Td (            entityManager.persist\(actividad\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 681.09 Td (            return actividad.getId\(\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 671.89 Td (        }\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 662.69 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 653.49 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 644.29 Td (    public void modificarActividad\(long actividadId, String nombre, String localidad,) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 635.09 Td (                                   LocalDateTime fechaHora, int plazasTotales, long monitorId\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 625.89 Td (        requireText\(nombre, "El nombre"\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 616.69 Td (        requireText\(localidad, "La localidad"\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 607.49 Td (        if \(fechaHora == null\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 598.29 Td (            throw new IllegalArgumentException\("La fecha y hora son obligatorias."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 589.09 Td (        }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 579.89 Td (        if \(plazasTotales <= 0\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 570.69 Td (            throw new IllegalArgumentException\("El número de plazas debe ser positivo."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 561.49 Td (        }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 552.29 Td (        inTransaction\(entityManager -> {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 543.09 Td (            Actividad actividad = entityManager.find\(Actividad.class, actividadId\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 533.89 Td (            if \(actividad == null\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 524.69 Td (                throw new IllegalArgumentException\("No existe una actividad con ese ID."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 515.49 Td (            }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 506.29 Td (            Monitor monitor = entityManager.find\(Monitor.class, monitorId\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 497.09 Td (            if \(monitor == null\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 487.89 Td (                throw new IllegalArgumentException\("No existe un monitor con ese ID."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 478.69 Td (            }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 469.49 Td (            actividad.actualizar\(nombre.trim\(\), localidad.trim\(\), fechaHora, plazasTotales, monitor\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 460.29 Td (            return null;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 451.09 Td (        }\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 441.89 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 432.69 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 423.49 Td (    public void eliminarActividad\(long actividadId\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 414.29 Td (        inTransaction\(entityManager -> {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 405.09 Td (            Actividad actividad = entityManager.find\(Actividad.class, actividadId\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 395.89 Td (            if \(actividad == null\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 386.69 Td (                throw new IllegalArgumentException\("No existe una actividad con ese ID."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 377.49 Td (            }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 368.29 Td (            Long reservas = entityManager.createQuery\() Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 359.09 Td (                            "select count\(r\) from Reserva r where r.actividad.id = :actividadId", Long.cl) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 349.89 Td (ass\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 340.69 Td (                    .setParameter\("actividadId", actividadId\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 331.49 Td (                    .getSingleResult\(\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 322.29 Td (            if \(reservas > 0\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 313.09 Td (                throw new IllegalArgumentException\() Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 303.89 Td (                        "No se puede eliminar la actividad porque tiene reservas. Cancélalas primero."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 294.69 Td (            }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 285.49 Td (            actividad.desvincularMonitorAlEliminar\(\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 276.29 Td (            entityManager.remove\(actividad\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 267.09 Td (            return null;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 257.89 Td (        }\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 248.69 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 239.49 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 230.29 Td (    public List<Actividad> buscarDisponibles\(String localidad, LocalDate fecha, int plazasNecesarias\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 221.09 Td (        requireText\(localidad, "La localidad"\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 211.89 Td (        if \(fecha == null\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 202.69 Td (            throw new IllegalArgumentException\("La fecha es obligatoria."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 193.49 Td (        }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 184.29 Td (        if \(plazasNecesarias <= 0\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 175.09 Td (            throw new IllegalArgumentException\("El número de plazas debe ser positivo."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 165.89 Td (        }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 156.69 Td (        String localidadNormalizada = localidad.trim\(\).toLowerCase\(Locale.ROOT\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 147.49 Td (        LocalDateTime inicio = fecha.atStartOfDay\(\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 138.29 Td (        LocalDateTime fin = fecha.plusDays\(1\).atStartOfDay\(\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 129.09 Td (        return inEntityManager\(entityManager -> entityManager.createQuery\() Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 119.89 Td (                        "select a from Actividad a join fetch a.monitor ") Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 110.69 Td (                                + "where lower\(a.localidad\) = :localidad ") Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 101.49 Td (                                + "and a.fechaHora >= :inicio and a.fechaHora < :fin ") Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 92.29 Td (                                + "and a.plazasDisponibles >= :plazas ") Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 83.09 Td (                                + "order by a.fechaHora",) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 73.89 Td (                        Actividad.class\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 64.69 Td (                .setParameter\("localidad", localidadNormalizada\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 55.49 Td (                .setParameter\("inicio", inicio\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 46.29 Td (                .setParameter\("fin", fin\)) Tj ET
+0.65 0.67 0.70 rg
+BT /F1 8 Tf 42.00 24 Td (Activa - Código del proyecto) Tj ET
+BT /F1 8 Tf 515.28 24 Td (Página 19) Tj ET
+endstream
+endobj
+43 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 3 0 R /F3 5 0 R /F4 4 0 R >> >> /Contents 42 0 R >>
+endobj
+44 0 obj
+<< /Length 8802 >>
+stream
+q
+0.08 0.24 0.42 RG
+1 w
+42 806.89 m 553.28 806.89 l S
+Q
+0.080 0.240 0.420 rg
+BT /F3 10 Tf 42.00 787.89 Td (PARTE: src/main/java/es/activa/service/ActivaService.java \(continuación\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 763.89 Td (                .setParameter\("plazas", plazasNecesarias\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 754.69 Td (                .getResultList\(\)\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 745.49 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 736.29 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 727.09 Td (    public Long crearCliente\(String nombre, String email\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 717.89 Td (        requireText\(nombre, "El nombre"\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 708.69 Td (        String emailNormalizado = validarEmail\(email\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 699.49 Td (        String emailBusqueda = emailNormalizado.toLowerCase\(Locale.ROOT\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 690.29 Td (        return inTransaction\(entityManager -> {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 681.09 Td (            Long duplicados = entityManager.createQuery\() Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 671.89 Td (                            "select count\(c\) from Cliente c where lower\(trim\(c.email\)\) = :email", Long.cl) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 662.69 Td (ass\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 653.49 Td (                    .setParameter\("email", emailBusqueda\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 644.29 Td (                    .getSingleResult\(\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 635.09 Td (            if \(duplicados > 0\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 625.89 Td (                throw new IllegalArgumentException\("Ya existe un cliente con ese correo electrónico."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 616.69 Td (            }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 607.49 Td (            Cliente cliente = new Cliente\(nombre.trim\(\), emailNormalizado\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 598.29 Td (            entityManager.persist\(cliente\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 589.09 Td (            return cliente.getId\(\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 579.89 Td (        }\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 570.69 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 561.49 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 552.29 Td (    public void modificarCliente\(long clienteId, String nombre, String email\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 543.09 Td (        requireText\(nombre, "El nombre"\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 533.89 Td (        String emailNormalizado = validarEmail\(email\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 524.69 Td (        String emailBusqueda = emailNormalizado.toLowerCase\(Locale.ROOT\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 515.49 Td (        inTransaction\(entityManager -> {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 506.29 Td (            Cliente cliente = entityManager.find\(Cliente.class, clienteId\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 497.09 Td (            if \(cliente == null\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 487.89 Td (                throw new IllegalArgumentException\("No existe un cliente con ese ID."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 478.69 Td (            }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 469.49 Td (            Long duplicados = entityManager.createQuery\() Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 460.29 Td (                            "select count\(c\) from Cliente c ") Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 451.09 Td (                                    + "where c.id <> :clienteId and lower\(trim\(c.email\)\) = :email",) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 441.89 Td (                            Long.class\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 432.69 Td (                    .setParameter\("clienteId", clienteId\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 423.49 Td (                    .setParameter\("email", emailBusqueda\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 414.29 Td (                    .getSingleResult\(\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 405.09 Td (            if \(duplicados > 0\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 395.89 Td (                throw new IllegalArgumentException\("Ya existe un cliente con ese correo electrónico."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 386.69 Td (            }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 377.49 Td (            cliente.actualizar\(nombre.trim\(\), emailNormalizado\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 368.29 Td (            return null;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 359.09 Td (        }\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 349.89 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 340.69 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 331.49 Td (    public void eliminarCliente\(long clienteId\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 322.29 Td (        inTransaction\(entityManager -> {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 313.09 Td (            Cliente cliente = entityManager.find\(Cliente.class, clienteId\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 303.89 Td (            if \(cliente == null\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 294.69 Td (                throw new IllegalArgumentException\("No existe un cliente con ese ID."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 285.49 Td (            }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 276.29 Td (            Long reservas = entityManager.createQuery\() Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 267.09 Td (                            "select count\(r\) from Reserva r where r.cliente.id = :clienteId", Long.class\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 257.89 Td (                    .setParameter\("clienteId", clienteId\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 248.69 Td (                    .getSingleResult\(\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 239.49 Td (            if \(reservas > 0\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 230.29 Td (                throw new IllegalArgumentException\() Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 221.09 Td (                        "No se puede eliminar el cliente porque tiene reservas. Cancélalas primero."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 211.89 Td (            }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 202.69 Td (            entityManager.remove\(cliente\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 193.49 Td (            return null;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 184.29 Td (        }\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 175.09 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 165.89 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 156.69 Td (    public ReservaCreada crearReserva\(long clienteId, long actividadId, int numeroPlazas\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 147.49 Td (        if \(numeroPlazas <= 0\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 138.29 Td (            throw new IllegalArgumentException\("El número de plazas debe ser positivo."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 129.09 Td (        }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 119.89 Td (        return inTransaction\(entityManager -> {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 110.69 Td (            Cliente cliente = entityManager.find\(Cliente.class, clienteId\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 101.49 Td (            if \(cliente == null\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 92.29 Td (                throw new IllegalArgumentException\("No existe un cliente con ese ID."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 83.09 Td (            }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 73.89 Td (            Actividad actividad = entityManager.find\(Actividad.class, actividadId\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 64.69 Td (            if \(actividad == null\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 55.49 Td (                throw new IllegalArgumentException\("No existe una actividad con ese ID."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 46.29 Td (            }) Tj ET
+0.65 0.67 0.70 rg
+BT /F1 8 Tf 42.00 24 Td (Activa - Código del proyecto) Tj ET
+BT /F1 8 Tf 515.28 24 Td (Página 20) Tj ET
+endstream
+endobj
+45 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 3 0 R /F3 5 0 R /F4 4 0 R >> >> /Contents 44 0 R >>
+endobj
+46 0 obj
+<< /Length 8293 >>
+stream
+q
+0.08 0.24 0.42 RG
+1 w
+42 806.89 m 553.28 806.89 l S
+Q
+0.080 0.240 0.420 rg
+BT /F3 10 Tf 42.00 787.89 Td (PARTE: src/main/java/es/activa/service/ActivaService.java \(continuación\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 763.89 Td (            if \(actividad.getPlazasDisponibles\(\) < numeroPlazas\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 754.69 Td (                throw new IllegalArgumentException\("No hay plazas suficientes para esta reserva."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 745.49 Td (            }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 736.29 Td (            actividad.reservar\(numeroPlazas\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 727.09 Td (            Reserva reserva = new Reserva\(LocalDateTime.now\(\), numeroPlazas, actividad, cliente\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 717.89 Td (            entityManager.persist\(reserva\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 708.69 Td (            entityManager.flush\(\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 699.49 Td (            return new ReservaCreada\(reserva.getId\(\), actividad.getPlazasDisponibles\(\)\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 690.29 Td (        }\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 681.09 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 671.89 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 662.69 Td (    public CancelacionRealizada cancelarReserva\(long reservaId\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 653.49 Td (        return inTransaction\(entityManager -> {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 644.29 Td (            Reserva reserva = entityManager.find\(Reserva.class, reservaId\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 635.09 Td (            if \(reserva == null\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 625.89 Td (                throw new IllegalArgumentException\("No existe una reserva con ese ID."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 616.69 Td (            }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 607.49 Td (            Actividad actividad = reserva.getActividad\(\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 598.29 Td (            int plazasDevueltas = reserva.getNumeroPlazas\(\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 589.09 Td (            actividad.liberar\(plazasDevueltas\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 579.89 Td (            entityManager.remove\(reserva\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 570.69 Td (            return new CancelacionRealizada\(plazasDevueltas, actividad.getPlazasDisponibles\(\)\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 561.49 Td (        }\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 552.29 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 543.09 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 533.89 Td (    public List<Actividad> listarActividades\(\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 524.69 Td (        return inEntityManager\(entityManager -> entityManager.createQuery\() Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 515.49 Td (                        "select a from Actividad a join fetch a.monitor order by a.fechaHora",) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 506.29 Td (                        Actividad.class\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 497.09 Td (                .getResultList\(\)\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 487.89 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 478.69 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 469.49 Td (    private <T> T inTransaction\(Function<EntityManager, T> operation\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 460.29 Td (        EntityManager entityManager = entityManagerFactory.createEntityManager\(\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 451.09 Td (        EntityTransaction transaction = entityManager.getTransaction\(\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 441.89 Td (        try {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 432.69 Td (            transaction.begin\(\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 423.49 Td (            T result = operation.apply\(entityManager\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 414.29 Td (            transaction.commit\(\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 405.09 Td (            return result;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 395.89 Td (        } catch \(RuntimeException exception\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 386.69 Td (            if \(transaction.isActive\(\)\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 377.49 Td (                try {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 368.29 Td (                    transaction.rollback\(\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 359.09 Td (                } catch \(RuntimeException rollbackException\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 349.89 Td (                    exception.addSuppressed\(rollbackException\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 340.69 Td (                }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 331.49 Td (            }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 322.29 Td (            throw exception;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 313.09 Td (        } finally {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 303.89 Td (            entityManager.close\(\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 294.69 Td (        }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 285.49 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 276.29 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 267.09 Td (    private <T> T inEntityManager\(Function<EntityManager, T> operation\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 257.89 Td (        EntityManager entityManager = entityManagerFactory.createEntityManager\(\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 248.69 Td (        try {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 239.49 Td (            return operation.apply\(entityManager\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 230.29 Td (        } finally {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 221.09 Td (            entityManager.close\(\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 211.89 Td (        }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 202.69 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 193.49 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 184.29 Td (    private static void requireText\(String value, String field\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 175.09 Td (        if \(value == null || value.isBlank\(\)\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 165.89 Td (            throw new IllegalArgumentException\(field + " no puede estar vacío."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 156.69 Td (        }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 147.49 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 138.29 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 129.09 Td (    private static String validarEmail\(String email\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 119.89 Td (        requireText\(email, "El email"\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 110.69 Td (        String emailNormalizado = email.trim\(\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 101.49 Td (        if \(!emailNormalizado.matches\("^[^\\\\s@]+@[^\\\\s@]+\\\\.[^\\\\s@]+$"\)\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 92.29 Td (            throw new IllegalArgumentException\("El formato del correo electrónico no es válido."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 83.09 Td (        }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 73.89 Td (        return emailNormalizado;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 64.69 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 55.49 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 46.29 Td (    public record ReservaCreada\(Long id, int plazasDisponibles\) {) Tj ET
+0.65 0.67 0.70 rg
+BT /F1 8 Tf 42.00 24 Td (Activa - Código del proyecto) Tj ET
+BT /F1 8 Tf 515.28 24 Td (Página 21) Tj ET
+endstream
+endobj
+47 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 3 0 R /F3 5 0 R /F4 4 0 R >> >> /Contents 46 0 R >>
+endobj
+48 0 obj
+<< /Length 708 >>
+stream
+q
+0.08 0.24 0.42 RG
+1 w
+42 806.89 m 553.28 806.89 l S
+Q
+0.080 0.240 0.420 rg
+BT /F3 10 Tf 42.00 787.89 Td (PARTE: src/main/java/es/activa/service/ActivaService.java \(continuación\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 763.89 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 754.69 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 745.49 Td (    public record CancelacionRealizada\(int plazasDevueltas, int plazasDisponibles\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 736.29 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 727.09 Td (}) Tj ET
+0.65 0.67 0.70 rg
+BT /F1 8 Tf 42.00 24 Td (Activa - Código del proyecto) Tj ET
+BT /F1 8 Tf 515.28 24 Td (Página 22) Tj ET
+endstream
+endobj
+49 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 3 0 R /F3 5 0 R /F4 4 0 R >> >> /Contents 48 0 R >>
+endobj
+50 0 obj
+<< /Length 8044 >>
+stream
+q
+0.08 0.24 0.42 RG
+1 w
+42 806.89 m 553.28 806.89 l S
+Q
+0.080 0.240 0.420 rg
+BT /F3 12 Tf 42.00 787.89 Td (PARTE: src/main/java/es/activa/main/ActivaApplication.java) Tj ET
+0.360 0.390 0.430 rg
+BT /F2 8 Tf 42.00 767.89 Td (src/main/java/es/activa/main/ActivaApplication.java) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 744.89 Td (package es.activa.main;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 735.69 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 726.49 Td (import es.activa.config.PersistenceConfig;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 717.29 Td (import es.activa.domain.Actividad;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 708.09 Td (import es.activa.service.ActivaService;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 698.89 Td (import jakarta.persistence.EntityManagerFactory;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 689.69 Td (import jakarta.persistence.PersistenceException;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 680.49 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 671.29 Td (import java.time.LocalDate;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 662.09 Td (import java.time.LocalDateTime;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 652.89 Td (import java.time.format.DateTimeFormatter;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 643.69 Td (import java.time.format.ResolverStyle;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 634.49 Td (import java.time.format.DateTimeParseException;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 625.29 Td (import java.util.Scanner;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 616.09 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 606.89 Td (public class ActivaApplication {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 597.69 Td (    private static final DateTimeFormatter DATE_TIME_FORMAT =) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 588.49 Td (            DateTimeFormatter.ofPattern\("dd/MM/uuuu HH:mm"\).withResolverStyle\(ResolverStyle.STRICT\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 579.29 Td (    private static final DateTimeFormatter DATE_FORMAT =) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 570.09 Td (            DateTimeFormatter.ofPattern\("dd/MM/uuuu"\).withResolverStyle\(ResolverStyle.STRICT\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 560.89 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 551.69 Td (    private final Scanner scanner;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 542.49 Td (    private final ActivaService service;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 533.29 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 524.09 Td (    private ActivaApplication\(ActivaService service, Scanner scanner\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 514.89 Td (        this.service = service;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 505.69 Td (        this.scanner = scanner;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 496.49 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 487.29 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 478.09 Td (    public static void main\(String[] args\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 468.89 Td (        try \(EntityManagerFactory factory = PersistenceConfig.createEntityManagerFactory\(\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 459.69 Td (             Scanner scanner = new Scanner\(System.in\)\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 450.49 Td (            new ActivaApplication\(new ActivaService\(factory\), scanner\).run\(\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 441.29 Td (        } catch \(PersistenceException | IllegalStateException exception\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 432.09 Td (            System.err.println\("No se pudo iniciar o utilizar la base de datos: " + usefulMessage\(excepti) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 422.89 Td (on\)\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 413.69 Td (        }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 404.49 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 395.29 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 386.09 Td (    private void run\(\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 376.89 Td (        boolean running = true;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 367.69 Td (        while \(running\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 358.49 Td (            printMenu\(\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 349.29 Td (            String option = readLine\("Opción: "\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 340.09 Td (            if \(option == null\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 330.89 Td (                break;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 321.69 Td (            }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 312.49 Td (            try {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 303.29 Td (                switch \(option.trim\(\)\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 294.09 Td (                    case "1" -> crearMonitor\(\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 284.89 Td (                    case "2" -> crearActividad\(\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 275.69 Td (                    case "3" -> buscarDisponibles\(\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 266.49 Td (                    case "4" -> crearCliente\(\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 257.29 Td (                    case "5" -> crearReserva\(\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 248.09 Td (                    case "6" -> cancelarReserva\(\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 238.89 Td (                    case "7" -> listarActividades\(\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 229.69 Td (                    case "8" -> modificarRegistro\(\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 220.49 Td (                    case "9" -> eliminarRegistro\(\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 211.29 Td (                    case "10" -> running = false;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 202.09 Td (                    default -> System.out.println\("Opción incorrecta. Elige un número del 1 al 10."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 192.89 Td (                }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 183.69 Td (            } catch \(IllegalArgumentException exception\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 174.49 Td (                System.out.println\("Operación no realizada: " + usefulMessage\(exception\)\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 165.29 Td (            } catch \(RuntimeException exception\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 156.09 Td (                System.out.println\("Error al realizar la operación: " + usefulMessage\(exception\)\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 146.89 Td (            }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 137.69 Td (        }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 128.49 Td (        System.out.println\("Hasta pronto."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 119.29 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 110.09 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 100.89 Td (    private void crearMonitor\(\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 91.69 Td (        String nombre = readRequiredText\("Nombre: "\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 82.49 Td (        String especialidad = readRequiredText\("Especialidad: "\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 73.29 Td (        Long id = service.crearMonitor\(nombre, especialidad\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 64.09 Td (        System.out.println\("Monitor creado. ID: " + id\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 54.89 Td (    }) Tj ET
+0.65 0.67 0.70 rg
+BT /F1 8 Tf 42.00 24 Td (Activa - Código del proyecto) Tj ET
+BT /F1 8 Tf 515.28 24 Td (Página 23) Tj ET
+endstream
+endobj
+51 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 3 0 R /F3 5 0 R /F4 4 0 R >> >> /Contents 50 0 R >>
+endobj
+52 0 obj
+<< /Length 9000 >>
+stream
+q
+0.08 0.24 0.42 RG
+1 w
+42 806.89 m 553.28 806.89 l S
+Q
+0.080 0.240 0.420 rg
+BT /F3 10 Tf 42.00 787.89 Td (PARTE: src/main/java/es/activa/main/ActivaApplication.java \(continuación\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 763.89 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 754.69 Td (    private void crearActividad\(\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 745.49 Td (        String nombre = readRequiredText\("Nombre: "\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 736.29 Td (        String localidad = readRequiredText\("Localidad: "\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 727.09 Td (        LocalDateTime fechaHora = readDateTime\("Fecha y hora \(dd/MM/yyyy HH:mm\): "\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 717.89 Td (        int plazas = readPositiveInt\("Plazas totales: "\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 708.69 Td (        long monitorId = readPositiveLong\("ID del monitor: "\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 699.49 Td (        Long id = service.crearActividad\(nombre, localidad, fechaHora, plazas, monitorId\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 690.29 Td (        System.out.println\("Actividad creada. ID: " + id\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 681.09 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 671.89 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 662.69 Td (    private void buscarDisponibles\(\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 653.49 Td (        String localidad = readRequiredText\("Localidad: "\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 644.29 Td (        LocalDate fecha = readDate\("Día \(dd/MM/yyyy\): "\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 635.09 Td (        int plazas = readPositiveInt\("Plazas necesarias: "\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 625.89 Td (        var actividades = service.buscarDisponibles\(localidad, fecha, plazas\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 616.69 Td (        if \(actividades.isEmpty\(\)\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 607.49 Td (            System.out.println\("No hay actividades disponibles que coincidan."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 598.29 Td (            return;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 589.09 Td (        }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 579.89 Td (        actividades.forEach\(this::printActividadDisponible\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 570.69 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 561.49 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 552.29 Td (    private void crearCliente\(\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 543.09 Td (        String nombre = readRequiredText\("Nombre: "\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 533.89 Td (        String email = readRequiredText\("Email: "\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 524.69 Td (        Long id = service.crearCliente\(nombre, email\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 515.49 Td (        System.out.println\("Cliente creado. ID: " + id\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 506.29 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 497.09 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 487.89 Td (    private void crearReserva\(\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 478.69 Td (        long clienteId = readPositiveLong\("ID del cliente: "\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 469.49 Td (        long actividadId = readPositiveLong\("ID de la actividad: "\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 460.29 Td (        int plazas = readPositiveInt\("Número de plazas: "\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 451.09 Td (        ActivaService.ReservaCreada reserva = service.crearReserva\(clienteId, actividadId, plazas\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 441.89 Td (        System.out.println\("Reserva confirmada. ID: " + reserva.id\(\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 432.69 Td (                + ". Plazas disponibles: " + reserva.plazasDisponibles\(\)\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 423.49 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 414.29 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 405.09 Td (    private void cancelarReserva\(\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 395.89 Td (        long reservaId = readPositiveLong\("ID de la reserva: "\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 386.69 Td (        ActivaService.CancelacionRealizada cancelacion = service.cancelarReserva\(reservaId\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 377.49 Td (        System.out.println\("Reserva cancelada. Plazas recuperadas: " + cancelacion.plazasDevueltas\(\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 368.29 Td (                + ". Plazas disponibles: " + cancelacion.plazasDisponibles\(\)\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 359.09 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 349.89 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 340.69 Td (    private void listarActividades\(\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 331.49 Td (        var actividades = service.listarActividades\(\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 322.29 Td (        if \(actividades.isEmpty\(\)\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 313.09 Td (            System.out.println\("No hay actividades registradas."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 303.89 Td (            return;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 294.69 Td (        }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 285.49 Td (        actividades.forEach\(actividad -> System.out.printf\() Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 276.29 Td (                "ID: %d | %s | %s | %s | Monitor: %s | Plazas totales: %d | Disponibles: %d%n",) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 267.09 Td (                actividad.getId\(\), actividad.getNombre\(\), actividad.getLocalidad\(\),) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 257.89 Td (                actividad.getFechaHora\(\).format\(DATE_TIME_FORMAT\), actividad.getMonitor\(\).getNombre\(\),) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 248.69 Td (                actividad.getPlazasTotales\(\), actividad.getPlazasDisponibles\(\)\)\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 239.49 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 230.29 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 221.09 Td (    private void modificarRegistro\(\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 211.89 Td (        String tipo = readRecordType\("modificar"\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 202.69 Td (        long id = readPositiveLong\("ID: "\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 193.49 Td (        switch \(tipo\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 184.29 Td (            case "1" -> {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 175.09 Td (                service.modificarMonitor\(id, readRequiredText\("Nombre: "\),) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 165.89 Td (                        readRequiredText\("Especialidad: "\)\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 156.69 Td (                System.out.println\("Monitor modificado."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 147.49 Td (            }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 138.29 Td (            case "2" -> {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 129.09 Td (                String nombre = readRequiredText\("Nombre: "\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 119.89 Td (                String localidad = readRequiredText\("Localidad: "\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 110.69 Td (                LocalDateTime fechaHora = readDateTime\("Fecha y hora \(dd/MM/yyyy HH:mm\): "\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 101.49 Td (                int plazas = readPositiveInt\("Plazas totales: "\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 92.29 Td (                long monitorId = readPositiveLong\("ID del monitor: "\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 83.09 Td (                service.modificarActividad\(id, nombre, localidad, fechaHora, plazas, monitorId\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 73.89 Td (                System.out.println\("Actividad modificada."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 64.69 Td (            }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 55.49 Td (            case "3" -> {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 46.29 Td (                service.modificarCliente\(id, readRequiredText\("Nombre: "\), readRequiredText\("Email: "\)\);) Tj ET
+0.65 0.67 0.70 rg
+BT /F1 8 Tf 42.00 24 Td (Activa - Código del proyecto) Tj ET
+BT /F1 8 Tf 515.28 24 Td (Página 24) Tj ET
+endstream
+endobj
+53 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 3 0 R /F3 5 0 R /F4 4 0 R >> >> /Contents 52 0 R >>
+endobj
+54 0 obj
+<< /Length 7999 >>
+stream
+q
+0.08 0.24 0.42 RG
+1 w
+42 806.89 m 553.28 806.89 l S
+Q
+0.080 0.240 0.420 rg
+BT /F3 10 Tf 42.00 787.89 Td (PARTE: src/main/java/es/activa/main/ActivaApplication.java \(continuación\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 763.89 Td (                System.out.println\("Cliente modificado."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 754.69 Td (            }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 745.49 Td (            default -> throw new IllegalStateException\("Tipo de registro no reconocido."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 736.29 Td (        }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 727.09 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 717.89 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 708.69 Td (    private void eliminarRegistro\(\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 699.49 Td (        String tipo = readRecordType\("eliminar"\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 690.29 Td (        long id = readPositiveLong\("ID: "\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 681.09 Td (        if \(!confirmar\("¿Confirmas la eliminación? \(S/N\): "\)\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 671.89 Td (            System.out.println\("Eliminación cancelada."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 662.69 Td (            return;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 653.49 Td (        }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 644.29 Td (        switch \(tipo\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 635.09 Td (            case "1" -> {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 625.89 Td (                service.eliminarMonitor\(id\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 616.69 Td (                System.out.println\("Monitor eliminado."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 607.49 Td (            }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 598.29 Td (            case "2" -> {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 589.09 Td (                service.eliminarActividad\(id\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 579.89 Td (                System.out.println\("Actividad eliminada."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 570.69 Td (            }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 561.49 Td (            case "3" -> {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 552.29 Td (                service.eliminarCliente\(id\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 543.09 Td (                System.out.println\("Cliente eliminado."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 533.89 Td (            }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 524.69 Td (            default -> throw new IllegalStateException\("Tipo de registro no reconocido."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 515.49 Td (        }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 506.29 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 497.09 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 487.89 Td (    private String readRecordType\(String action\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 478.69 Td (        while \(true\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 469.49 Td (            System.out.println\("Selecciona el tipo de registro que quieres " + action + ":"\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 460.29 Td (            System.out.println\("1. Monitor"\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 451.09 Td (            System.out.println\("2. Actividad"\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 441.89 Td (            System.out.println\("3. Cliente"\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 432.69 Td (            String type = readLine\("Opción: "\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 423.49 Td (            if \(type == null\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 414.29 Td (                throw new IllegalArgumentException\("Entrada finalizada."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 405.09 Td (            }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 395.89 Td (            if \(type.equals\("1"\) || type.equals\("2"\) || type.equals\("3"\)\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 386.69 Td (                return type;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 377.49 Td (            }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 368.29 Td (            System.out.println\("Opción incorrecta. Elige 1, 2 o 3."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 359.09 Td (        }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 349.89 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 340.69 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 331.49 Td (    private boolean confirmar\(String prompt\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 322.29 Td (        String respuesta = readLine\(prompt\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 313.09 Td (        return respuesta != null && respuesta.trim\(\).equalsIgnoreCase\("s"\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 303.89 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 294.69 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 285.49 Td (    private void printActividadDisponible\(Actividad actividad\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 276.29 Td (        System.out.printf\("ID: %d | %s | %s | Monitor: %s | Plazas disponibles: %d%n",) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 267.09 Td (                actividad.getId\(\), actividad.getNombre\(\), actividad.getFechaHora\(\).format\(DATE_TIME_FORMA) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 257.89 Td (T\),) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 248.69 Td (                actividad.getMonitor\(\).getNombre\(\), actividad.getPlazasDisponibles\(\)\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 239.49 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 230.29 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 221.09 Td (    private String readRequiredText\(String prompt\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 211.89 Td (        while \(true\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 202.69 Td (            String value = readLine\(prompt\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 193.49 Td (            if \(value == null\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 184.29 Td (                throw new IllegalArgumentException\("Entrada finalizada."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 175.09 Td (            }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 165.89 Td (            if \(!value.isBlank\(\)\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 156.69 Td (                return value.trim\(\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 147.49 Td (            }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 138.29 Td (            System.out.println\("Este campo no puede estar vacío."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 129.09 Td (        }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 119.89 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 110.69 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 101.49 Td (    private int readPositiveInt\(String prompt\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 92.29 Td (        while \(true\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 83.09 Td (            String value = readLine\(prompt\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 73.89 Td (            if \(value == null\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 64.69 Td (                throw new IllegalArgumentException\("Entrada finalizada."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 55.49 Td (            }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 46.29 Td (            try {) Tj ET
+0.65 0.67 0.70 rg
+BT /F1 8 Tf 42.00 24 Td (Activa - Código del proyecto) Tj ET
+BT /F1 8 Tf 515.28 24 Td (Página 25) Tj ET
+endstream
+endobj
+55 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 3 0 R /F3 5 0 R /F4 4 0 R >> >> /Contents 54 0 R >>
+endobj
+56 0 obj
+<< /Length 7982 >>
+stream
+q
+0.08 0.24 0.42 RG
+1 w
+42 806.89 m 553.28 806.89 l S
+Q
+0.080 0.240 0.420 rg
+BT /F3 10 Tf 42.00 787.89 Td (PARTE: src/main/java/es/activa/main/ActivaApplication.java \(continuación\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 763.89 Td (                int number = Integer.parseInt\(value\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 754.69 Td (                if \(number > 0\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 745.49 Td (                    return number;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 736.29 Td (                }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 727.09 Td (            } catch \(NumberFormatException ignored\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 717.89 Td (                // Show the same clear validation message for non-numeric and non-positive values.) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 708.69 Td (            }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 699.49 Td (            System.out.println\("Introduce un número entero positivo."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 690.29 Td (        }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 681.09 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 671.89 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 662.69 Td (    private long readPositiveLong\(String prompt\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 653.49 Td (        while \(true\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 644.29 Td (            String value = readLine\(prompt\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 635.09 Td (            if \(value == null\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 625.89 Td (                throw new IllegalArgumentException\("Entrada finalizada."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 616.69 Td (            }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 607.49 Td (            try {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 598.29 Td (                long number = Long.parseLong\(value\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 589.09 Td (                if \(number > 0\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 579.89 Td (                    return number;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 570.69 Td (                }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 561.49 Td (            } catch \(NumberFormatException ignored\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 552.29 Td (                // Show the same clear validation message for non-numeric and non-positive values.) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 543.09 Td (            }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 533.89 Td (            System.out.println\("Introduce un identificador numérico positivo."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 524.69 Td (        }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 515.49 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 506.29 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 497.09 Td (    private LocalDateTime readDateTime\(String prompt\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 487.89 Td (        while \(true\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 478.69 Td (            String value = readLine\(prompt\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 469.49 Td (            if \(value == null\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 460.29 Td (                throw new IllegalArgumentException\("Entrada finalizada."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 451.09 Td (            }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 441.89 Td (            try {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 432.69 Td (                return LocalDateTime.parse\(value, DATE_TIME_FORMAT\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 423.49 Td (            } catch \(DateTimeParseException exception\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 414.29 Td (                System.out.println\("Fecha u hora no válida. Usa el formato dd/MM/yyyy HH:mm."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 405.09 Td (            }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 395.89 Td (        }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 386.69 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 377.49 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 368.29 Td (    private LocalDate readDate\(String prompt\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 359.09 Td (        while \(true\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 349.89 Td (            String value = readLine\(prompt\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 340.69 Td (            if \(value == null\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 331.49 Td (                throw new IllegalArgumentException\("Entrada finalizada."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 322.29 Td (            }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 313.09 Td (            try {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 303.89 Td (                return LocalDate.parse\(value, DATE_FORMAT\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 294.69 Td (            } catch \(DateTimeParseException exception\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 285.49 Td (                System.out.println\("Fecha no válida. Usa el formato dd/MM/yyyy."\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 276.29 Td (            }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 267.09 Td (        }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 257.89 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 248.69 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 239.49 Td (    private String readLine\(String prompt\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 230.29 Td (        System.out.print\(prompt\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 221.09 Td (        return scanner.hasNextLine\(\) ? scanner.nextLine\(\) : null;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 211.89 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 202.69 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 193.49 Td (    private static String usefulMessage\(Throwable exception\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 184.29 Td (        String message = exception.getMessage\(\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 175.09 Td (        return message == null || message.isBlank\(\) ? exception.getClass\(\).getSimpleName\(\) : message;) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 165.89 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 156.69 Td () Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 147.49 Td (    private static void printMenu\(\) {) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 138.29 Td (        System.out.println\(""") Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 129.09 Td (                === ACTIVA · Gestión de actividades ===) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 119.89 Td (                1. Crear monitor) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 110.69 Td (                2. Crear actividad) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 101.49 Td (                3. Buscar actividades disponibles) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 92.29 Td (                4. Crear cliente) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 83.09 Td (                5. Crear reserva) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 73.89 Td (                6. Cancelar reserva) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 64.69 Td (                7. Listar actividades) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 55.49 Td (                8. Modificar monitor, actividad o cliente) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 46.29 Td (                9. Eliminar monitor, actividad o cliente) Tj ET
+0.65 0.67 0.70 rg
+BT /F1 8 Tf 42.00 24 Td (Activa - Código del proyecto) Tj ET
+BT /F1 8 Tf 515.28 24 Td (Página 26) Tj ET
+endstream
+endobj
+57 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 3 0 R /F3 5 0 R /F4 4 0 R >> >> /Contents 56 0 R >>
+endobj
+58 0 obj
+<< /Length 605 >>
+stream
+q
+0.08 0.24 0.42 RG
+1 w
+42 806.89 m 553.28 806.89 l S
+Q
+0.080 0.240 0.420 rg
+BT /F3 10 Tf 42.00 787.89 Td (PARTE: src/main/java/es/activa/main/ActivaApplication.java \(continuación\)) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 763.89 Td (                10. Salir) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 754.69 Td (                """\);) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 745.49 Td (    }) Tj ET
+0.120 0.140 0.170 rg
+BT /F4 7.6 Tf 42.00 736.29 Td (}) Tj ET
+0.65 0.67 0.70 rg
+BT /F1 8 Tf 42.00 24 Td (Activa - Código del proyecto) Tj ET
+BT /F1 8 Tf 515.28 24 Td (Página 27) Tj ET
+endstream
+endobj
+59 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 3 0 R /F3 5 0 R /F4 4 0 R >> >> /Contents 58 0 R >>
+endobj
+xref
+0 60
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000303 00000 n 
+0000000400 00000 n 
+0000000495 00000 n 
+0000000597 00000 n 
+0000001439 00000 n 
+0000001601 00000 n 
+0000004191 00000 n 
+0000004353 00000 n 
+0000011918 00000 n 
+0000012082 00000 n 
+0000016196 00000 n 
+0000016360 00000 n 
+0000021887 00000 n 
+0000022051 00000 n 
+0000024194 00000 n 
+0000024358 00000 n 
+0000027336 00000 n 
+0000027500 00000 n 
+0000028087 00000 n 
+0000028251 00000 n 
+0000028953 00000 n 
+0000029117 00000 n 
+0000030020 00000 n 
+0000030184 00000 n 
+0000033234 00000 n 
+0000033398 00000 n 
+0000036506 00000 n 
+0000036670 00000 n 
+0000043907 00000 n 
+0000044071 00000 n 
+0000048662 00000 n 
+0000048826 00000 n 
+0000053059 00000 n 
+0000053223 00000 n 
+0000059649 00000 n 
+0000059813 00000 n 
+0000065143 00000 n 
+0000065307 00000 n 
+0000073289 00000 n 
+0000073453 00000 n 
+0000082464 00000 n 
+0000082628 00000 n 
+0000091482 00000 n 
+0000091646 00000 n 
+0000099991 00000 n 
+0000100155 00000 n 
+0000100914 00000 n 
+0000101078 00000 n 
+0000109174 00000 n 
+0000109338 00000 n 
+0000118390 00000 n 
+0000118554 00000 n 
+0000126605 00000 n 
+0000126769 00000 n 
+0000134803 00000 n 
+0000134967 00000 n 
+0000135623 00000 n 
+trailer
+<< /Size 60 /Root 1 0 R >>
+startxref
+135787
+%%EOF
